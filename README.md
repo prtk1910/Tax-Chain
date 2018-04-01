@@ -1,5 +1,8 @@
 # Tax-Chain
 
+## Link to the demonstration video
+https://drive.google.com/file/d/1VHIqgVvLHtKbuhnJV4ZEkZQti05l1kE6/view 
+
 ## Motivation
 Tax fraud is at an all time rise in India, having men go through Income Tax returns would always have a weak point in the system. Block chains not only provide a secure but a completely transparent system for the citizens and the government. 
 Tax-Chain has an intuitive frontend which completely eliminates the typical "Business Year End" system and replaces Chartered Accountants by having a straighforward process of uploading receipts of payments made throughout the year. Using Optical Character Recognition, we remove the transaction amount automatically from the receipts (Further eliminating fraud from users inputting incorrect values) All these transactions get stored in a blockchain along with the IT return of the user.
