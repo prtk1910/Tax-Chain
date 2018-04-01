@@ -12,6 +12,15 @@ Our system aims to enhance the digital India program and eliminate black money.
 - **Time spent behind collecting the data**
   
 - **Fraud and Theft of data**
+
+
+## Detail
+- **Data collection**
+    Data Collection is done by the user itself as he/she uploads the relevant data.
+- **Data storage**
+    Data Storage is done in the block chain which essentially means there can be no alteration to the data once it is uploaded and hashed. 
+- **Data Retrival**
+    Data can be retrived by a locally hosted web application which is built using PHP, HTML & CSS. Material design guidelines have been followed to ensure the best UI/UX. 
        
 ## About Us
 We are a team of 3 students from Dwarkadas J Sanghvi College Of Engineering (At the time of making this project), Mumbai.
