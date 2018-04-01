@@ -1,0 +1,8 @@
+# Define your MultiChain node credentials below.
+
+default.name=test                   # name to display in the web interface
+default.rpchost=10.100.11.116:6449              # IP address of MultiChain node
+default.rpcport=6448                  # usually default-rpc-port from params.dat
+default.rpcuser=multichainrpc          # username for RPC from multichain.conf
+default.rpcpassword=                   # password for RPC from multichain.conf
+
