@@ -28,9 +28,9 @@ The team members are named, Pratik Mulchandani, Keval Nagda and Viral Tagdiwala
 
 Viral is a second year student who specializes in network security. He also has keen interests in web development.
 
-Keval is a second year student who also specializes in backend web development in PHP.
+Keval is a second year student who also specializes in full stack web development.
 
-Pratik is a second year student who has keen interests in web development specializing in front-end web development and PHP.
+Pratik is a second year student who has keen interests in web development specializing in back-end web development and graphic design.
     
 
 
